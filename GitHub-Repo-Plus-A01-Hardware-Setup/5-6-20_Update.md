@@ -1,7 +1,7 @@
 ## Problems
 So, as it turns out, I do ***not*** have a color-changing LED. XD 
 
-I thought Charles had gotten me everything I'd need back in DC, right around the time I came back to classes &mdash; and I should've checked &mdash; but I did not. So, tonight, I went on AdaFruit. Then, I bought the wrong kind of LED &mdash; ones that aren't programmable. THEN, I got on DigiKey and found the right kind (I think). Both (the wrong kind and the right kind) are supposed to arrive here by Monday (5/11/20).
+I thought Charles and I (I was there; not gonna try to put all this on him lol) had gotten together everything I'd need back in DC, right around the time I came back to classes &mdash; and I should've checked &mdash; but I did not. So, tonight, I went on AdaFruit. Then, I bought the wrong kind of LED &mdash; ones that aren't programmable. THEN, I got on DigiKey and found the right kind (I think). Both (the wrong kind and the right kind) are supposed to arrive here by Monday (5/11/20).
 
 ### Hardware Setup
 The "Teensy1" and "Teensy2" .jpeg's are photos where I've set up my breadboard for A01. I wired up both the potentiometer and the encoder, just in case. The encoder is set up with just the knob, i.e. without the optional button-type switch (which I gather use the 2 pins opposite the set of 3 pins I ***am*** using). There are wires set up for the color-changing LED, assuming a 4-pin pinout. Everything else is set up. All I'll have to do is correct anything that needs fixing and plug that right in.
