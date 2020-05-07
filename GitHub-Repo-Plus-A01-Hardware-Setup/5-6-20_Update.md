@@ -13,13 +13,19 @@ The "Teensy1" and "Teensy2" .jpeg's are photos where I've set up my breadboard f
 
 ### Questions
 * Could you check out my wiring and see if you find anywhere I might have problems? 
-..* I was unsure of the potentiometer and rotary encoder hookups especially; I connected the potentiometer to AC ports and the encoder to DC ports (I think), and though I know how to do it &mdash; especially the potentiometer after **LAST** semester (lol), but it's been awhile since I've done a potentiometer hookup and I've never done an encoder hookup before. (Also, I had a lot of trouble finding specific info on what the pinout for that encoder was.) I think I did it right. But could you take a look at that specifically?
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I was unsure of the potentiometer and rotary encoder hookups especially; I connected the potentiometer to AC ports and the encoder to DC ports (I think), and though I know how to do it &mdash; especially the potentiometer after **LAST** semester (lol), but it's been awhile since I've done a potentiometer hookup and I've never done an encoder hookup before. (Also, I had a lot of trouble finding specific info on what the pinout for that encoder was.) I think I did it right. But could you take a look at that specifically?
+
 * I spent ~$15-20 on the LEDs all told, because of shipping and getting the wrong one (sorry about that, again &ndash; XD). Is there any way I could get reimbursed for that? (Thank you, NASA? XD)
-..* I put PDFs of my receipts from DigiKey ("DigiKey Color-Changing LEDs Receipt.pdf") and AdaFruit ("Color-Changing LEDs Receipt.pdf") in this folder, too.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I put PDFs of my receipts from DigiKey ("DigiKey Color-Changing LEDs Receipt.pdf") and AdaFruit ("Color-Changing LEDs Receipt.pdf") in this folder, too.
+
+***
 
 I'm probably going to take a break until Monday on this, since I kind of need the LEDs to continue anyway and I have the Neopixel libraries installed on my ArduinoIDE already. I also ended up not getting to stop working last weekend; slowed down a little (from, like, multiple all-nighters all that week), but haven't stopped &mdash; been working on straggler assignments and such post-finals &mdash; since then. I have Mother's Day stuff planned for Saturday and Sunday this weekend and I'd like to be finished with work for a few days on Friday on, though. Saturday and Sunday might be stressful; my Dad makes things **real** weird around here on Mother's Day (and Father's Day, for that matter, if he's even here then, which usually he isn't). Friday should be nice, though. Going to rest up this weekend. 
 
 And, thanks for your message over the weekend. (It's a hard time right now...) It means a lot. 
 
 Check in on Monday, hope you get some rest this weekend too, and thanks again,
-- Fiona
+
+~ Fiona
