@@ -16,6 +16,8 @@ The "Teensy1" and "Teensy2" .jpeg's are photos where I've set up my breadboard f
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I was unsure of the potentiometer and rotary encoder hookups especially; I connected the potentiometer to AC ports and the encoder to DC ports (I think), and though I know how to do it &mdash; especially the potentiometer after **LAST** semester (lol), but it's been awhile since I've done a potentiometer hookup and I've never done an encoder hookup before. (Also, I had a lot of trouble finding specific info on what the pinout for that encoder was.) I think I did it right. But could you take a look at that specifically?
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Also, I don't have a nut and washer for the rotary encoder. Is that okay?
+
 * I spent ~$15-20 on the LEDs all told, because of shipping and getting the wrong one (sorry about that, again &ndash; XD). Is there any way I could get reimbursed for that? (Thank you, NASA? XD)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I put PDFs of my receipts from DigiKey ("DigiKey Color-Changing LEDs Receipt.pdf") and AdaFruit ("Color-Changing LEDs Receipt.pdf") in this folder, too.
