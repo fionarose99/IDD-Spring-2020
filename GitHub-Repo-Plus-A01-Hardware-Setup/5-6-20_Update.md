@@ -20,7 +20,7 @@ The "Teensy1" and "Teensy2" .jpeg's are photos where I've set up my breadboard f
 
 * I spent ~$15-20 on the LEDs all told, because of shipping and getting the wrong one (sorry about that, again &ndash; XD). Is there any way I could get reimbursed for that? (Thank you, NASA? XD)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I put PDFs of my receipts from DigiKey ("DigiKey Color-Changing LEDs Receipt.pdf") and AdaFruit ("Color-Changing LEDs Receipt.pdf") in this folder, too.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I put PDFs of my receipts from DigiKey ("DigiKey Color-Changing LEDs Receipt (Full).pdf") and AdaFruit ("AdaFruit Color-Changing LEDs Receipt.pdf") in this folder, too.
 
 ***
 
